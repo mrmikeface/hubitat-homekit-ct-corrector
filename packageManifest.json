@@ -3,5 +3,16 @@
   "author": "mrmikeface",
   "version": "1.0",
   "minimumHEVersion": "2.3.6.126",
-  "dateReleased": "2025-03-22"
+  "dateReleased": "2025-03-22",
+  "apps": [
+    {
+      "id": "adb6e048-fe66-4f69-910c-74026d8ed7cb",
+      "name": "Homekit CT Corrector",
+      "namespace": "hubitat-homekit-ct-corrector",
+      "location": "https://raw.githubusercontent.com/mrmikeface/hubitat-homekit-ct-corrector/main/apps/Homekit_CT_Corrector.groovy",
+      "required": true,
+      "oauth": false,
+      "primary": false
+    }
+  ]
 }
